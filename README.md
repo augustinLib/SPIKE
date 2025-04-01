@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href=""><b>Paper</b></a> | <a href="https://huggingface.co/yonsei-dli/Scenario-Generator-only_plain_doc"><b>Hugging Face</b></a>
+  <a href="https://arxiv.org/abs/2503.23033"><b>Paper</b></a> | <a href="https://huggingface.co/yonsei-dli/Scenario-Generator-only_plain_doc"><b>Hugging Face</b></a>
 </p>
 
 
