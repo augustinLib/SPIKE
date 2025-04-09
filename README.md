@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2503.23033"><b>Paper</b></a> | <a href="https://huggingface.co/yonsei-dli/Scenario-Generator-only_plain_doc"><b>Hugging Face</b></a>
+  <a href="https://arxiv.org/abs/2503.23033"><img src="https://img.shields.io/badge/📄_Paper-arXiv-red" alt="Paper"></a>
+  <a href="https://huggingface.co/yonsei-dli/Scenario-Generator-only_plain_doc"><img src="https://img.shields.io/badge/🤗_Hugging_Face-Model-yellow" alt="Hugging Face"></a>
+  <a href="https://augustinlib.github.io/SPIKE/"><img src="https://img.shields.io/badge/🌐_Website-Demo-blue" alt="Website"></a>
 </p>
 
 
